@@ -1,0 +1,23 @@
+.stock {
+    margin: 5px;
+    padding: 10px 20px;
+}
+  
+.stock h3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+  
+.stock.profit {
+    border-left: 5px solid green;
+}
+  
+.stock.loss {
+    border-left: 5px solid red;
+}
+
+p {
+    display: flex;
+    justify-content: space-between;
+}

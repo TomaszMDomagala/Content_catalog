@@ -1,0 +1,9 @@
+.categoryitem {
+  border: solid;
+  border-color: #636363;
+  border-radius: 12px;
+}
+
+.muted {
+  color: #949494;
+}
